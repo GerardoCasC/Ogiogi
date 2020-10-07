@@ -87,22 +87,65 @@ body{
 	margin-top: 143px;
 	margin-bottom: 79px;
   	font-family: "Montserrat", sans-serif;
+  	left: 170px;
 }
 .our-services h4{
 	margin-bottom: 15px;
 	font-family: "Montserrat", sans-serif;
 }
 .our-services p{
-	margin-bottom: 70px;
 	color: #5D5F65;
+}
+.wallet{
+	background: url(../imagen/wallet.png);
+	width: 40px;
+	height: 40px;
+	margin-bottom: 21px;
+	margin-top: 79px;
+}
+.smile{
+	background: url(../imagen/smile.png);
+	width: 40px;
+	height: 38px;
+	margin-bottom: 21px;
+	margin-top: 81px;
+}
+.heart{
+	background: url(../imagen/heart.png);
+	width: 40px;
+	height: 36px;
+	margin-bottom: 21px;
+	margin-top: 83px;
+}
+.shape{
+	background: url(../imagen/shape.png);
+	width: 29px;
+	height: 32px;
+	margin-bottom: 28px;
+	margin-top: 68px;
+}	
+.joystick{
+	background: url(../imagen/joystick.png);
+	width: 40px;
+	height: 38px;
+	margin-bottom: 21px;
+	margin-top: 70px;
+}
+.cellphone{
+	background: url(../imagen/cellphone.png);
+	width: 21.5px;
+	height: 36px;
+	margin-bottom: 21px;
+	margin-top: 71px;
 }
 .were-hiring{
 	background: #141720;
 	position: relative;
+	height: 700px;
 }
 .were-hiring h3{
 	margin-top: 143px;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 	font-family: "Montserrat", sans-serif;
 	color: #FFFFFF;
 }
@@ -119,5 +162,20 @@ body{
 	width: 700px;
 	left: 0px;
 	margin-top: 0px;
+}
+.contact-us{
+	background: #141720;
+	position: relative;
+	height: 700px;
+}
+.contact-us h3{
 
+}
+.imagen-contact-us{
+	background: url(../imagen/map.png);
+	background-size: cover;
+	position: absolute;
+	height: 700px;
+	width: 720px;
+	left: 700px;
 }
