@@ -51,7 +51,7 @@ body{
 
 }
 .imagen-dos-secciones{
- 	 width: 720px;
+ 	 width: 50%;
  	 height: 700px;
  	 background: url(../imagen/imagen-dos-secciones.jpg);
  	 background-size: cover;
@@ -160,7 +160,7 @@ body{
 	background-size: cover;
 	position: absolute;
 	height: 700px;
-	width: 629px;
+	width: 700px;
 	left: 0px;
 	margin-top: 0px;
 }
@@ -170,9 +170,7 @@ body{
 	height: 700px;
 }
 .contact-us h3{
-	margin-top: 143.5px;
-	color: #FFFFFF;
-	font-family: "Montserrat", sans-serif;
+
 }
 .contact-us p{
 	color: #FFFFFF;
