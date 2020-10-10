@@ -51,7 +51,7 @@ body{
 
 }
 .imagen-dos-secciones{
- 	 width: 50%;
+ 	 width: 720px;
  	 height: 700px;
  	 background: url(../imagen/imagen-dos-secciones.jpg);
  	 background-size: cover;
@@ -64,14 +64,14 @@ body{
 	width: 261px;
 	height: 511px;
 	background: url(../imagen/timeline.png);
-	position: relative;
+	position: absolute;
 	background-size: cover;
 	margin-left: 150px;
 	margin-top: 36px;
 }
 .timeline h3{
  	font-family: "Montserrat", sans-serif;
-  	margin-top: 1px;
+  	margin-top: 168px;
 }
 .timeline p{
 	margin-top: 54px;
@@ -81,6 +81,7 @@ body{
 	margin-top: 189px;
 	background: #EFEFEF;
 	position: relative;
+	height: 900px;
 
 }
 .our-services h3{
@@ -160,7 +161,7 @@ body{
 	background-size: cover;
 	position: absolute;
 	height: 700px;
-	width: 700px;
+	width: 629px;
 	left: 0px;
 	margin-top: 0px;
 }
@@ -170,7 +171,9 @@ body{
 	height: 700px;
 }
 .contact-us h3{
-
+	margin-top: 143.5px;
+	color: #FFFFFF;
+	font-family: "Montserrat", sans-serif;
 }
 .contact-us p{
 	color: #FFFFFF;
